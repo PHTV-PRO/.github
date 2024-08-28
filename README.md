@@ -20,9 +20,6 @@ If you found this project useful, then please consider giving it a ⭐ on Github
     ```
   - Installation JDK
   - Run
-
-    ```
-
     ```
 
 - Frontend ()
