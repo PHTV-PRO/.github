@@ -75,7 +75,7 @@ If you found this project useful, then please consider giving it a ⭐ on Github
 - MOBILE:
 <h1>PHTV-PRO</h1>
 <h3>Login Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724848361/Screen_Shot_2024-08-28_at_19.31.22_gyn5do.png" alt="Login Page">
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724848361/Screen_Shot_2024-08-28_at_19.31.22_gyn5do.png" width="20%" height="20%" alt="Login Page">
 
 <h3>Jobs Page:</h3>
 <img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724849024/tclnk1nctyunobha4wdr.png" width="100%" alt="Homepage">
@@ -94,9 +94,6 @@ If you found this project useful, then please consider giving it a ⭐ on Github
 
 <h3>Chart page:</h3>
 <img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724849531/jktox1glm2u54ezuhn6e.png" width="100%" alt="Adminpage">
-
-
-
 
 
 - WEBSITE:
