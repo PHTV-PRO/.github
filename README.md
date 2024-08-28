@@ -97,13 +97,13 @@ If you found this project useful, then please consider giving it a ⭐ on Github
 
 - WEBSITE:
 <h3>Login Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854570/mldxd2ewu4i1g3llsw3b.png" width="500px" height="400px"  alt="Homepage">
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854570/mldxd2ewu4i1g3llsw3b.png" width="650px" height="400px"  alt="Homepage">
 
 
 <h3>Admin Manage Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854388/zv0715vfcuhuz78qdrre.png" width="500px" height="400px" alt="Homepage">
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854388/zv0715vfcuhuz78qdrre.png" width="650px" height="400px" alt="Homepage">
 <h3>Employer Manage Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854388/s4iq9u2ctc0r9lyebmnh.png" width="500px" height="400px"  alt="Homepage">
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854388/s4iq9u2ctc0r9lyebmnh.png" width="650px" height="400px"  alt="Homepage">
 
 ## Collaborators:
 
