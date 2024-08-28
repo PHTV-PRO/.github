@@ -95,29 +95,14 @@ If you found this project useful, then please consider giving it a ⭐ on Github
 <h3>Chart page:</h3>
 <img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724849531/jktox1glm2u54ezuhn6e.png" width="20%" height="20%"  alt="Adminpage">
 
-
 - WEBSITE:
-<h1>PHTV-PRO</h1>
 <h3>Login Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724848361/Screen_Shot_2024-08-28_at_19.31.22_gyn5do.png" alt="Login Page">
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854570/mldxd2ewu4i1g3llsw3b.png"   width="40%" height="40%"  alt="Login Page">
 
-<h3>Jobs Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724849024/tclnk1nctyunobha4wdr.png" width="20%" height="20%"  alt="Homepage">
-
-<h3>Companies page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724849100/bzkeghzlc49ahz25rybl.png" width="20%" height="20%"  alt="Search/Sort/Filter the Trip">
-
-<h3>Tools page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724849192/y3zq6f7au9ens8iovey8.png" width="20%" height="20%"  alt="Seat Selecting">
-
-<hr>
-
-<h1>Employer Manage</h1>
-<h3>Login Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724849533/s7o20slb5qrmaqx046gv.png" width="20%" height="20%"  alt="Ticket purchased">
-
-<h3>Chart page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724849531/jktox1glm2u54ezuhn6e.png" width="20%" height="20%"  alt="Adminpage">
+<h3>Admin Manage Page:</h3>
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854388/zv0715vfcuhuz78qdrre.png" width="40%" height="40%"  alt="Homepage">
+<h3>Employer Manage Page:</h3>
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854388/s4iq9u2ctc0r9lyebmnh.png" width="20%" height="40%"  alt="Homepage">
 
 ## Collaborators:
 
