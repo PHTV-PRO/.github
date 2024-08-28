@@ -20,6 +20,11 @@ If you found this project useful, then please consider giving it a ⭐ on Github
     ```
   - Installation JDK
   - Run
+
+    ```
+
+    ```
+
 - Frontend ()
 
   - Website:
@@ -92,7 +97,7 @@ If you found this project useful, then please consider giving it a ⭐ on Github
 
 - WEBSITE:
 <h3>Login Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854570/mldxd2ewu4i1g3llsw3b.png"   width="40%" height="40%"  alt="Login Page">
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854570/mldxd2ewu4i1g3llsw3b.png"   width="300px" height="250px"  alt="Login Page">
 
 <h3>Admin Manage Page:</h3>
 <img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854388/zv0715vfcuhuz78qdrre.png" width="40%" height="40%"  alt="Homepage">
