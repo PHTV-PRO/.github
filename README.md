@@ -97,7 +97,7 @@ If you found this project useful, then please consider giving it a ⭐ on Github
 
 - WEBSITE:
 <h3>Login Page:</h3>
-<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724859562/o1vyhiv2fciflc6g6pmg.png" width="500px" height="400px" alt="Homepage">
+<img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724860386/hf1vmnl1hfk7rmnjjds3.png" width="500px" height="400px" alt="Homepage">
 
 <h3>Admin Manage Page:</h3>
 <img src="https://res.cloudinary.com/dj7xlmndj/image/upload/v1724854388/zv0715vfcuhuz78qdrre.png" width="500px" height="400px" alt="Homepage">
